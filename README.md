@@ -10,7 +10,7 @@
 look i dont think there are lots of people reading this for fun so im just gonna talk serious ;
 im capable of codings in : python, c#, javascript, html, css, php, 
 
-<h3><a url="example.com">here is my latest project</a></h3>
+<h3><a href="example.com">here is my latest project</a></h3>
 <!---
 MR-mozy/MR-mozy is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
