@@ -3,7 +3,7 @@
 🍷 I’m interested in coding🥂<br>
 🥂 I’m looking to collaborate on projects🍷<br>
 🍷 reach me in moon🥂<br>
-🥂 Fun fact: im not just coder but i also animate AND edit videos (im a youtube editor) ..🍷<br>
+🥂 Fun fact: im not just developer but i also animate AND edit videos (im a youtube editor) ..🍷<br>
 
 🐈oh and i have to mention 2.88 billion people, watch anime in the world 🐈
 
